@@ -5,6 +5,7 @@ Contact: n.leemhuis01@outlook.com
 
 Alle genoemde prijzen zijn exclusief verzendkosten!
 
+
 1. Bluetooth ontvanger voor buizen radio's/versterkers
 
    prijs €10,00
@@ -13,6 +14,7 @@ Alle genoemde prijzen zijn exclusief verzendkosten!
 
 # Products
 Prices are without shipment
+
 
 1. Bluetooth reciever for Tube radio's/amplifiers
 
