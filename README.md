@@ -8,7 +8,7 @@ Alle genoemde prijzen zijn exclusief verzendkosten!
 
 1. Bluetooth ontvanger voor buizen radio's/versterkers
 
-   prijs €10,00
+   prijs €10,00 p.s.
 
    https://github.com/Leemhuis01/Bluetooth-reciever-voor-buizenradio-s
 
