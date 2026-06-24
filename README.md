@@ -15,9 +15,15 @@ Alle genoemde prijzen zijn exclusief verzendkosten!
 
 2. PCB voor AM/FM modulator (ontwerp otto tuil)
 
-   Prijs €10,00 p.s
+   Prijs €10,00 p.s.
 
    https://github.com/Leemhuis01/AM-FM-modulator-met-ESP32/tree/main
+
+3. Buizen standaard
+
+   Prijs €0,50 p.s.
+
+   https://github.com/Leemhuis01/buizen-stand/tree/main
 
 # Products
 Prices are without shipment
@@ -31,6 +37,12 @@ Prices are without shipment
 
 2. PCB for AM/FM modulator (ontwerp otto tuil)
 
-   Price €10,00 a.p
+   Price €10,00 a.p.
 
    https://github.com/Leemhuis01/AM-FM-modulator-met-ESP32/tree/main
+
+3. Vacuum tube stand
+
+   Price €0,50 a.p.
+
+   https://github.com/Leemhuis01/buizen-stand/tree/main
