@@ -25,6 +25,10 @@ Alle genoemde prijzen zijn exclusief verzendkosten!
 
    https://github.com/Leemhuis01/buizen-stand/tree/main
 
+Op zoek naar een maatwerkoplossing?
+
+Neem gerust contact met mij op voor het ontwerpen van een PCB, elektrisch schema of 3D-ontwerp. Ik verzorg het volledige traject: van ontwerp en prototyping tot de levering van PCB's en 3D-geprinte onderdelen. Alles wordt afgestemd op uw wensen en de eisen van uw project.
+
 # Products
 Prices are without shipment
 
@@ -46,3 +50,7 @@ Prices are without shipment
    Price €0,50 a.p.
 
    https://github.com/Leemhuis01/buizen-stand/tree/main
+
+Looking for a custom electronic or mechanical solution? Feel free to get in touch.
+
+I design PCBs (Printed Circuit Boards), electronic schematics, and 3D models tailored to your specific requirements. In addition to the design process, I can also arrange the manufacturing and supply of assembled or bare PCBs as well as 3D-printed parts, providing a complete solution from concept to finished product.
