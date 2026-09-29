@@ -19,9 +19,16 @@ Alle genoemde prijzen zijn exclusief verzendkosten!
 3. Bluetooth ontvanger voor buizen radio's/versterkers
 
    prijs €10,00 p.s.
+   
    https://github.com/Leemhuis01/Bluetooth-reciever-voor-buizenradio-s
 
    <img width="264" height="180" alt="image" src="https://github.com/user-attachments/assets/637cee71-990d-4ffe-bd94-f89b05d1fa2e" />
+
+5. Losse Bluetooth ontvanger
+
+   Prijs €6,00
+
+   <img width="278" height="180" alt="image" src="https://github.com/user-attachments/assets/30ca4ebc-f6f6-458f-9a02-baceadb52b03" />
 
 4. PCB voor AM/FM modulator (ontwerp otto tuil)
 
