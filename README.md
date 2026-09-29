@@ -14,7 +14,9 @@ Alle genoemde prijzen zijn exclusief verzendkosten!
 
    PS4/PS5 TMR sticks €27,50 per 2 (upgrade, https://www.save-our-stuff.nl/tmr-sticks)
 
-2. Bluetooth ontvanger voor buizen radio's/versterkers
+   <img width="235" height="180" alt="image" src="https://github.com/user-attachments/assets/ffb1c635-3c53-4649-b180-e0c7c5443d36" />
+
+3. Bluetooth ontvanger voor buizen radio's/versterkers
 
    prijs €10,00 p.s.
    https://github.com/Leemhuis01/Bluetooth-reciever-voor-buizenradio-s
