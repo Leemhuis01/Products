@@ -17,16 +17,17 @@ Alle genoemde prijzen zijn exclusief verzendkosten!
 2. Bluetooth ontvanger voor buizen radio's/versterkers
 
    prijs €10,00 p.s.
-
    https://github.com/Leemhuis01/Bluetooth-reciever-voor-buizenradio-s
 
-3. PCB voor AM/FM modulator (ontwerp otto tuil)
+   <img width="264" height="180" alt="image" src="https://github.com/user-attachments/assets/637cee71-990d-4ffe-bd94-f89b05d1fa2e" />
+
+4. PCB voor AM/FM modulator (ontwerp otto tuil)
 
    Prijs €10,00 p.s.
 
    https://github.com/Leemhuis01/AM-FM-modulator-met-ESP32/tree/main
 
-4. Buizen standaard
+5. Buizen standaard
 
    Prijs €0,50 p.s.
 
