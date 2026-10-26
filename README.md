@@ -6,7 +6,7 @@ Contact: n.leemhuis01@outlook.com
 
 Alle genoemde prijzen zijn exclusief verzendkosten!
 
-1. Stick drift reparatie
+- Stick drift reparatie
 
    Vervangen van de sticks wanneer de controller last heeft van stick drift.
 
@@ -16,7 +16,7 @@ Alle genoemde prijzen zijn exclusief verzendkosten!
 
    <img width="235" height="180" alt="image" src="https://github.com/user-attachments/assets/ffb1c635-3c53-4649-b180-e0c7c5443d36" />
 
-3. Bluetooth ontvanger voor buizen radio's/versterkers
+- Bluetooth ontvanger voor buizen radio's/versterkers
 
    prijs €10,00 p.s.
    
@@ -24,23 +24,11 @@ Alle genoemde prijzen zijn exclusief verzendkosten!
 
    <img width="264" height="180" alt="image" src="https://github.com/user-attachments/assets/637cee71-990d-4ffe-bd94-f89b05d1fa2e" />
 
-5. Losse Bluetooth ontvanger
+- Losse Bluetooth ontvanger
 
    Prijs €6,00
 
    <img width="278" height="180" alt="image" src="https://github.com/user-attachments/assets/30ca4ebc-f6f6-458f-9a02-baceadb52b03" />
-
-4. PCB voor AM/FM modulator (ontwerp otto tuil)
-
-   Prijs €10,00 p.s.
-
-   https://github.com/Leemhuis01/AM-FM-modulator-met-ESP32/tree/main
-
-5. Buizen standaard
-
-   Prijs €0,50 p.s.
-
-   https://github.com/Leemhuis01/buizen-stand/tree/main
 
 Op zoek naar een maatwerkoplossing?
 
@@ -49,7 +37,7 @@ Neem gerust contact met mij op voor het ontwerpen van een PCB, elektrisch schema
 # Products / Service
 Prices are without shipment
 
-1. Stick drift repair
+- Stick drift repair
 
    Replacement of the sticks when the controller experiences stick drift
 
@@ -57,23 +45,15 @@ Prices are without shipment
 
    PS4/PS5 TMR sticks €27,50 per 2 (upgrade, https://www.save-our-stuff.nl/tmr-sticks)
 
-1. Bluetooth reciever for Tube radio's/amplifiers
+- Bluetooth reciever for Tube radio's/amplifiers
 
    Price €10,00 a.p.
 
    https://github.com/Leemhuis01/Bluetooth-reciever-voor-buizenradio-s
 
-2. PCB for AM/FM modulator (ontwerp otto tuil)
+- Bluetooth reciever
 
-   Price €10,00 a.p.
-
-   https://github.com/Leemhuis01/AM-FM-modulator-met-ESP32/tree/main
-
-3. Vacuum tube stand
-
-   Price €0,50 a.p.
-
-   https://github.com/Leemhuis01/buizen-stand/tree/main
+  Price €6,00
 
 Looking for a custom electronic or mechanical solution? Feel free to get in touch.
 
