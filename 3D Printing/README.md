@@ -11,13 +11,19 @@ Prijzen zijn exclusief de verzendkosten
 
 # Producten
 
-1.  Bordje "Electricity will kill you" 150 x 3 mm
+- Buizen standaard
+
+    Prijs €0,50 p.s.
+
+    https://github.com/Leemhuis01/buizen-stand/tree/main
+
+- Bordje "Electricity will kill you" 150 x 3 mm
 
     Prijs €7,50
 
     <img width="240" height="250" alt="image" src="https://github.com/user-attachments/assets/60d1e2dd-7ce0-438b-94e4-d4ba72ee7549" />
 
-2.   Bordje "radio frequency hazard" 150 x 180 mm
+- Bordje "radio frequency hazard" 150 x 180 mm
 
      Prijs €7,50
 
