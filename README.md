@@ -14,8 +14,8 @@ Contact: n.leemhuis01@outlook.com
       <img src="https://github.com/user-attachments/assets/637cee71-990d-4ffe-bd94-f89b05d1fa2e" width="100%">
       <h3> Bluetooth ontvanger buizen radio/versterker </h3>
       Geef je klassieke radio/versterker een moderne Bluetooth-aansluiting.
-      <br>
-      https://github.com/Leemhuis01/Bluetooth-reciever-voor-buizenradio-s
+      <br><br>
+      <a href="https://github.com/Leemhuis01/Bluetooth-reciever-voor-buizenradio-s">Meer informatie</a>
       <br><br>
       <strong>€10,00 per stuk</strong>
      </td>
