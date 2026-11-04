@@ -38,6 +38,13 @@ Contact: n.leemhuis01@outlook.com
      </td>
   </tr>
    <tr>
+     <td width="33%" align="center" valign="top">
+      <img src="https://github.com/user-attachments/assets/c97a5c3e-e0cb-4b47-95e4-fa8dfe90e053" height="180">
+      <h3>Lithophane lamp</h3>
+      Lamp met 4 lithophane foto's (90x90x3mm), e14 lamp inbegrepen.
+      <br><br>
+      <strong>€27,50 per stuk </strong>
+     </td>
     <td width="33%" align="center" valign="top">
       <img src="https://github.com/user-attachments/assets/cba3e75b-c64b-4afd-88e5-36fac16bca84" width="100%" height="180">
       <h3>Op zoek naar een maatwerkoplossing?</h3>
@@ -47,7 +54,6 @@ Contact: n.leemhuis01@outlook.com
      </td>
   </tr>
 </table>
-
 
 # Products / Service
 
@@ -82,6 +88,13 @@ Contact: n.leemhuis01@outlook.com
       </td>
   </tr>
   <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="https://github.com/user-attachments/assets/c97a5c3e-e0cb-4b47-95e4-fa8dfe90e053" height="180">
+      <h3>Lithophane lamp</h3>
+      Lamp with 4 lithophane pictures (90x90x3mm), comes with e14 lamp included
+      <br><br>
+      <strong>€27,50 a piece </strong>
+     </td>
     <td width="33%" align="center" valign="top">
       <img src="https://github.com/user-attachments/assets/cba3e75b-c64b-4afd-88e5-36fac16bca84" width="100%" height="180">
       <h3>Looking for a custom electronic or mechanical solution?</h3>
