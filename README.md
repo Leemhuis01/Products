@@ -31,7 +31,7 @@ Contact: n.leemhuis01@outlook.com
       <h3>Stick drift reparatie</h3>
       Vervangen van de sticks wanneer de controller last heeft van stick drift.
       <br><br>
-      <strong>PS4/PS5 Standaard sticks €15,00 per 2<br>
+      <strong>PS4/PS5 normale sticks €15,00 per 2<br>
             PS4/PS5 TMR sticks €27,50 per 2<br>
       </strong>
       <a href="https://www.save-our-stuff.nl/tmr-sticks">Meer informatie over TMR sticks (upgrade)
